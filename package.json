@@ -20,9 +20,9 @@
   },
   "homepage": "http://elias94xx.github.io/Online-Tile-Map-Editor/",
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-requirejs": "~0.4.1",
-    "grunt-sass": "~0.9.0",
-    "grunt-contrib-jshint": "~0.8.0"
+    "grunt": ">=0.4.2",
+    "grunt-contrib-requirejs": ">=0.4.1",
+    "grunt-sass": ">=0.9.0",
+    "grunt-contrib-jshint": ">=0.8.0"
   }
 }
